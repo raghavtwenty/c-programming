@@ -3,7 +3,7 @@ Filename: _0003_basic_datatypes.c
 Title: Basic datatypes in c
 Author: Raghava | GitHub: @raghavtwenty
 Date Created: July 10, 2024 | Last Updated: July 10, 2024
-# Language: C | Version: clang-14
+Language: C | Version: clang-14
 */
 
 // Required imports
