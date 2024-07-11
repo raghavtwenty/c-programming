@@ -3,7 +3,7 @@ Filename: _0002_comments.c
 Title: Comments in c
 Author: Raghava | GitHub: @raghavtwenty
 Date Created: July 10, 2024 | Last Updated: July 10, 2024
-# Language: C | Version: clang-14
+Language: C | Version: clang-14
 */
 
 /*
