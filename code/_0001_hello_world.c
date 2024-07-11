@@ -3,7 +3,7 @@ Filename: _0001_hello_world.c
 Title: First program in c
 Author: Raghava | GitHub: @raghavtwenty
 Date Created: July 10, 2024 | Last Updated: July 10, 2024
-# Language: C | Version: clang-14
+Language: C | Version: clang-14
 */
 
 // Required imports
