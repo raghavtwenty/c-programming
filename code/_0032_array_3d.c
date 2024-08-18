@@ -1,5 +1,5 @@
 /*
-Filename: _0031_array_3d.c
+Filename: _0032_array_3d.c
 Title: 3D Arrays in c
 Author: Raghava | GitHub: @raghavtwenty
 Date Created: August 15, 2024 | Last Updated: August 15, 2024
