@@ -1,5 +1,5 @@
 /*
-Filename: _0052_string_append.c
+Filename: _0053_string_append.c
 Title: Program to Append a String to Another String
 Author: Raghava | GitHub: @raghavtwenty
 Date Created: September 8, 2024 | Last Updated: September 8, 2024
