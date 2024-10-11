@@ -1,5 +1,5 @@
 /*
-Filename: _0041_quick_sort.c
+Filename: _0032_pivot_quick_sort.c
 Title: Quick Sort Algorithm Implementation with Custom Pivot
 Author: Raghava | GitHub: @raghavtwenty
 Date Created: October 10, 2024 | Last Updated: October 10, 2024
